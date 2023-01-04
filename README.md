@@ -1,6 +1,8 @@
 # Luria Delbruck
 A shiny app simulation of the Luria Delbruck assay demonstrating the random accumulation of mutations in the absence of selection. (https://philip-leftwich.shinyapps.io/Luria_Delbruck/)
 
+[![DOI](https://zenodo.org/badge/585106311.svg)](https://zenodo.org/badge/latestdoi/585106311)
+
 ## Background
 
 This simulation is designed to supplement practical work in undergraduate genetics labs at the University of East Anglia.
