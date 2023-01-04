@@ -5,7 +5,7 @@ library(ggbeeswarm)
 library(aplot)
 library(scales)
 library(patchwork)
-library(scattermore)
+#library(scattermore)
 #data()
 
 my_theme2 <- 
