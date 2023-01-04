@@ -1,0 +1,12 @@
+name: Luria_Delbruck
+title: Luria_Delbruck
+username:
+account: philip-leftwich
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6384657
+bundleId: 6696296
+url: https://philip-leftwich.shinyapps.io/Luria_Delbruck/
+when: 1672825615.72862
+asMultiple: FALSE
+asStatic: FALSE
